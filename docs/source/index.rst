@@ -197,7 +197,6 @@ Regional Resources
 For developers building transport or location-based services, the following regional resources provide valuable timing and schedule data:
 
 - **Qatar**: For precise timing and schedule data in Qatar, refer to `QA Timing <https://www.qatiming.com/>`_.
-- **UAE**: For taxi fare estimation and transport data in the UAE, visit `UAE Timing <https://uaetiming.com/>`_.
 
 
 .. toctree::
