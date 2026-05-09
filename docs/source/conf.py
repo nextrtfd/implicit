@@ -35,7 +35,7 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for sitemap
-html_baseurl = 'https://careem-pay-docs.readthedocs.io/en/latest/'
+html_baseurl = 'https://implicit.readthedocs.io/en/latest/'
 sitemap_url_scheme = "{link}"
 
 # -- Options for EPUB output
