@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_sitemap',
 ]
 
 intersphinx_mapping = {
@@ -32,6 +33,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+# -- Options for sitemap
+html_baseurl = 'https://careem-pay-docs.readthedocs.io/en/latest/'
+sitemap_url_scheme = "{link}"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
